@@ -1,5 +1,8 @@
 # wardrobe_classifier
 
+## Summary
+A basic classification model built using TensorFlow and Keras API, leveraging the power of Neural Networks.
+
 ## Dataset Used
 Fashion MNIST
 
